@@ -1,2 +1,2 @@
-# react-dashboard-widget
+# DnDBoard2
 Created with CodeSandbox
